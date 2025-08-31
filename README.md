@@ -76,12 +76,13 @@ This ensures products can only be created with valid `CategoryId`s.
 
 Error response structure:
 
-json
+```json
 {
   "statusCode": 400,
   "message": "Validation failed.",
   "errors": ["Product name cannot exceed 100 characters."]
 }
+```
 
 ---
 
