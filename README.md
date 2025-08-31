@@ -124,7 +124,7 @@ json
 ## How To Run
 
 - git clone https://github.com/anaa211/zeiss-products-api.git
-- cd Products
+- cd zeiss-products-api
 - dotnet restore
 - dotnet ef database update
 - dotnet run --project src/Products.Api
