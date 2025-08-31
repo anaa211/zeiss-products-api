@@ -123,7 +123,7 @@ json
 
 ## How To Run
 
-- git clone https://github.com/anaa211/zeiss-products-assignment.git
+- git clone https://github.com/anaa211/zeiss-products-api.git
 - cd Products
 - dotnet restore
 - dotnet ef database update
